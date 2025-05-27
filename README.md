@@ -5,3 +5,4 @@ Criação do segurancazero.php e outros também.
 session_start();
 
 ?>
+//vale para segurancaum.php e segurancadez.php//
